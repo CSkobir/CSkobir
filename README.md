@@ -100,4 +100,14 @@
   <img src="https://streak-stats.demolab.com?user=CSkobir&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
+<br clear="both">
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CSkobir/CSkobir/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CSkobir/CSkobir/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/CSkobir/CSkobir/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
 ###
+
+
